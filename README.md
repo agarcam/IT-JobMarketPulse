@@ -1,2 +1,2 @@
-# IT-JobMarketPulse
-Plataforma web de empleo especializada en el sector IT que conecta a graduados en Ingeniería Informática con oportunidades laborales. La aplicación no solo centraliza ofertas de trabajo, sino que actúa como una herramienta de inteligencia de mercado al incorporar paneles estadísticos sobre salarios promedio y tendencias de contratación.
+# IT JobMarketPulse
+IT JobMarketPulse es una plataforma de búsqueda de empleo especializada en el sector de las Tecnologías de la Información (IT), diseñada específicamente para facilitar la inserción laboral de graduados en Ingeniería Informática. Para aportar valor estratégico al usuario, la aplicación integra un módulo de analítica de datos visual mediante gráficas interactivas, mostrando en tiempo real los perfiles más demandados y las especialidades mejor remuneradas del mercado tecnológico.
